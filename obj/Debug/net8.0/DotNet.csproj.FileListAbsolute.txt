@@ -1,0 +1,15 @@
+/Users/sraavya/AMIS/DotNet/bin/Debug/net8.0/DotNet
+/Users/sraavya/AMIS/DotNet/bin/Debug/net8.0/DotNet.deps.json
+/Users/sraavya/AMIS/DotNet/bin/Debug/net8.0/DotNet.runtimeconfig.json
+/Users/sraavya/AMIS/DotNet/bin/Debug/net8.0/DotNet.dll
+/Users/sraavya/AMIS/DotNet/bin/Debug/net8.0/DotNet.pdb
+/Users/sraavya/AMIS/DotNet/obj/Debug/net8.0/DotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sraavya/AMIS/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfoInputs.cache
+/Users/sraavya/AMIS/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfo.cs
+/Users/sraavya/AMIS/DotNet/obj/Debug/net8.0/DotNet.csproj.CoreCompileInputs.cache
+/Users/sraavya/AMIS/DotNet/obj/Debug/net8.0/DotNet.dll
+/Users/sraavya/AMIS/DotNet/obj/Debug/net8.0/refint/DotNet.dll
+/Users/sraavya/AMIS/DotNet/obj/Debug/net8.0/DotNet.pdb
+/Users/sraavya/AMIS/DotNet/obj/Debug/net8.0/DotNet.genruntimeconfig.cache
+/Users/sraavya/AMIS/DotNet/obj/Debug/net8.0/ref/DotNet.dll
+/Users/sraavya/AMIS/DotNet/obj/Debug/net8.0/DotNet.sourcelink.json
